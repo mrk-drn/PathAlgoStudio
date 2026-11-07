@@ -69,6 +69,12 @@ PathAlgoStudio/
 ├── CMakeLists.txt
 ├── README.md
 │
+├── docs/
+│   └── images/
+│       ├── 2d-visualization.png
+│       ├── 3d-visualization.png
+│       └── algorithm-comparison.png
+│
 ├── include/
 │   ├── AlgorithmStatistics.hpp
 │   ├── AlgorithmVisualizer.hpp
