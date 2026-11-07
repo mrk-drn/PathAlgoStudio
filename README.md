@@ -3,6 +3,10 @@
 
 **An interactive 2D and 3D pathfinding algorithm visualizer built with C++, Raylib, and CMake.**
 
+![2D Visualization](docs/images/2d-visualization.png)
+![3D Visualization](docs/images/3d-visualization.png)
+![Algorithm Comparison](docs/images/algorithm-comparison.png)
+
 PathAlgoStudio is an interactive application designed to visualize, explore, and compare different pathfinding algorithms in both two-dimensional and three-dimensional grid environments.
 
 The application provides real-time visualization of algorithm exploration, solution paths, and performance statistics. Users can configure grids, place obstacles, select start and end points, and compare two algorithms side by side.
@@ -232,22 +236,6 @@ Once execution is complete, inspect the displayed statistics to compare the algo
 | Pause | Pause visualization |
 | Reset | Reset the current visualization |
 | Reset Camera | Restore the default camera position |
-
----
-
-## Screenshots
-
-Screenshots and demonstration images will be added here.
-
-<!--
-Example:
-
-![2D Visualization](docs/images/2d-visualization.png)
-
-![3D Visualization](docs/images/3d-visualization.png)
-
-![Algorithm Comparison](docs/images/algorithm-comparison.png)
--->
 
 ---
 
