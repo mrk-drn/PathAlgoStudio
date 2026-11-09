@@ -1,7 +1,7 @@
 
 # PathAlgoStudio
 
-**An interactive 2D and 3D pathfinding algorithm visualizer built with C++, Raylib, and CMake.**
+**An interactive 2D and 3D pathfinding algorithm visualizer built with C++ and CMake.**
 
 ![2D Visualization](docs/images/2d-visualization.png)
 ![3D Visualization](docs/images/3d-visualization.png)
